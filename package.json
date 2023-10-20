@@ -23,7 +23,7 @@
     "carbon-ui": "github:tuckerconnelly/carbon-ui",
     "expo": "^25.0.0",
     "react": "16.2.0",
-    "react-native": "0.52.0",
+    "react-native": "0.72.6",
     "react-native-linear-gradient": "^2.4.0",
     "react-native-loading-spinner-overlay": "^0.5.2",
     "react-navigation": "^1.2.1",
