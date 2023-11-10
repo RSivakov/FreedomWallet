@@ -19,7 +19,7 @@
     "preset": "jest-expo"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^1.6.0",
     "carbon-ui": "github:tuckerconnelly/carbon-ui",
     "expo": "^25.0.0",
     "react": "16.2.0",
